@@ -32,7 +32,7 @@
     (property "Sheetname" "auxiliary circuit" (at 69.85 29.7684 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "aux.kicad_sch" (at 69.85 43.7646 0)
+    (property "Sheetfile" "aux_circuit.kicad_sch" (at 69.85 43.7646 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
