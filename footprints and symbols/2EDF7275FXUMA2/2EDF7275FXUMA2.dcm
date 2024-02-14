@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2EDF7275FXUMA2
+D Fast, robust, dual-channel, functional and reinforced isolated MOSFET gate-driver with accurate and stable timing
+K
+F https://www.infineon.com/cms/en/product/power/gate-driver-ics/?
+$ENDCMP
+#
+#End Doc Library
