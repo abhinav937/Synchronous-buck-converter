@@ -1,0 +1,65 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 0b6a92ce-83e9-45de-83d9-40d08ddc3185)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 44.45 30.48) (size 16.51 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 0741aac3-c59b-4ede-9292-7ee3efaf57d4)
+    (property "Sheetname" "power-stage" (at 44.45 29.7684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "power.kicad_sch" (at 44.45 43.7646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Synchronous-buck-converter"
+        (path "/0b6a92ce-83e9-45de-83d9-40d08ddc3185" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 69.85 30.48) (size 15.24 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 346ffcfc-fa0a-4710-ba21-0f6c12a09d89)
+    (property "Sheetname" "auxiliary circuit" (at 69.85 29.7684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "aux_circuit.kicad_sch" (at 69.85 43.7646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Synchronous-buck-converter"
+        (path "/0b6a92ce-83e9-45de-83d9-40d08ddc3185" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 93.98 30.48) (size 13.97 12.7) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 8f926cbf-6a61-4db2-b943-ed5d89f00661)
+    (property "Sheetname" "gate-driver" (at 93.98 29.7684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "gatedriver.kicad_sch" (at 93.98 43.7646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Synchronous-buck-converter"
+        (path "/0b6a92ce-83e9-45de-83d9-40d08ddc3185" (page "4"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

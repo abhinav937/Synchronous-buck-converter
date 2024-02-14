@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MGJ1D051505MPC-R13
+D Isolated DC/DC Converters 1W 5Vin 15/-5Vout 50mA
+K
+F https://datasheet.datasheetarchive.com/originals/dk/DKDS-25/489003.pdf
+$ENDCMP
+#
+#End Doc Library
