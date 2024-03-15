@@ -8,4 +8,5 @@
   (lib (name "LM5169PQDDARQ1")(type "KiCad")(uri "${KIPRJMOD}/footprints and symbols/LM5169PQDDARQ1")(options "")(descr ""))
   (lib (name "heatsink")(type "KiCad")(uri "${KIPRJMOD}/footprints and symbols/heatsink")(options "")(descr ""))
   (lib (name "5001 tp")(type "KiCad")(uri "${KIPRJMOD}/footprints and symbols/5001 tp")(options "")(descr ""))
+  (lib (name "SRR1050HA-271Y-inductor")(type "KiCad")(uri "${KIPRJMOD}/footprints and symbols/SRR1050HA-271Y-inductor")(options "")(descr ""))
 )
